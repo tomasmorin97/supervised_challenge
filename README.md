@@ -1,2 +1,4 @@
-# supervised_challenge
+# __Supervised Challenge__
+
 A review of supervised learning basics
+
